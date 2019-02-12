@@ -6,7 +6,11 @@ public class Main {
 	    // write your code here
         System.out.println("Hello World 2");
 		
-		TestClass testClass = new TestClass();
-		testClass.TestClass();
+		Main m = new Main();
     }
+	
+	Main(){
+		TestClass t = new TestClass();
+		t.TestClass();
+	}
 }
