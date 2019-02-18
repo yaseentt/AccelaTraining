@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+package com.accela.training;
+
+public class RamiTest {
+	
+	public static void main(String[] args) {
+
+        System.out.println("Updated by Rami");
+
+    }
+}
+=======
+ksjbsjkbskjvbkj
+>>>>>>> 2e4f492ffe6db55958d6fd8e841d882158ddb8c0
